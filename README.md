@@ -8,6 +8,9 @@ In this project, the user has to select the password length and then click on th
 To build this project we will use the basic concept of python and libraries – Tkinter, pyperclip, random, string.
 
 • Tkinter is a standard GUI library and is one of the easiest ways to build a GUI application.
+
 • Pyperclip module allows us to copy and paste text to and from the clipboard to your computer
+
 • The random module can generate random numbers
+
 • String module contains a number of functions to process the standard python string
